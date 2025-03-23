@@ -1,6 +1,6 @@
 # Laptop-Price-Predictor
 
-This appears to be a laptop price prediction project using machine learning.The key aspects include :
+This is a laptop price prediction project using machine learning.The key aspects include :
 
 1. Dataset Overview:
 - The dataset contains information about laptops including features like:
